@@ -11,5 +11,10 @@
 9. [Identity Mappings in Deep Residual Networks](https://arxiv.org/pdf/1603.05027.pdf) (ResNet-v2, 2016)
 10. [Densely Connected Convolutional Networks](https://arxiv.org/pdf/1608.06993.pdf) (DenseNet, 2016)
 11. [Wide Residual Networks](https://arxiv.org/pdf/1605.07146.pdf) (Wide ResNet, 2016)
-12. [MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications](https://arxiv.org/pdf/1704.04861.pdf) (MobileNet, 2017)
-13. [MobileNetV2: Inverted Residuals and Linear Bottlenecks](https://arxiv.org/pdf/1801.04381.pdf) (MobileNet-v2, 2018)
+12. [SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and <0.5MB model size](https://arxiv.org/pdf/1602.07360.pdf) (SqueezeNet, 2016)
+13. [ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices](https://arxiv.org/pdf/1707.01083.pdf) (ShuffleNet, 2017)
+14. [XNOR-Net: ImageNet Classification Using Binary Convolutional Neural Networks](https://pjreddie.com/media/files/papers/xnor.pdf) (XNOR-Net, 2016)
+15. [MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications](https://arxiv.org/pdf/1704.04861.pdf) (MobileNet, 2017)
+16. [MobileNetV2: Inverted Residuals and Linear Bottlenecks](https://arxiv.org/pdf/1801.04381.pdf) (MobileNet-v2, 2018)
+
+
