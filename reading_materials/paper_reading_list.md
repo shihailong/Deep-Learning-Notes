@@ -1,0 +1,15 @@
+# 深度学习论文阅读列表
+## 基础模型
+1. [Imagenet classification with deep convolutional neural networks](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf) (AlexNet, 2012)
+2. [Network In Network](https://arxiv.org/pdf/1312.4400.pdf) (NIN, 2013)
+3. [Very deep convolutional networks for large-scale image recognition](https://arxiv.org/pdf/1409.1556.pdf) (VGG, 2014)
+4. [Going deeper with convolutions](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Szegedy_Going_Deeper_With_2015_CVPR_paper.pdf) (GoogleNet, 2015)
+5. [Rethinking the Inception Architecture for Computer Vision](https://arxiv.org/pdf/1512.00567.pdf) (Inception-v3, 2015)
+6. [Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning](https://arxiv.org/pdf/1602.07261.pdf) (Inception-v4, 2016)
+7. [Xception: Deep Learning with Depthwise Separable Convolutions](http://openaccess.thecvf.com/content_cvpr_2017/papers/Chollet_Xception_Deep_Learning_CVPR_2017_paper.pdf) (Xception, 2017)
+8. [Deep residual learning for image recognition](https://arxiv.org/pdf/1512.03385.pdf) (ResNet, 2015)
+9. [Identity Mappings in Deep Residual Networks](https://arxiv.org/pdf/1603.05027.pdf) (ResNet-v2, 2016)
+10. [Densely Connected Convolutional Networks](https://arxiv.org/pdf/1608.06993.pdf) (DenseNet, 2016)
+11. [Wide Residual Networks](https://arxiv.org/pdf/1605.07146.pdf) (Wide ResNet, 2016)
+12. [MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications](https://arxiv.org/pdf/1704.04861.pdf) (MobileNet, 2017)
+13. [MobileNetV2: Inverted Residuals and Linear Bottlenecks](https://arxiv.org/pdf/1801.04381.pdf) (MobileNet-v2, 2018)
