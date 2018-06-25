@@ -1,6 +1,6 @@
 # Deep Learning Paper Reading List
 ## Backbone Models
-### Big Models
+**Big Models**
 * [Imagenet classification with deep convolutional neural networks](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf) (AlexNet, 2012)
 * [Network In Network](https://arxiv.org/pdf/1312.4400.pdf) (NIN, 2013)
 * [Very deep convolutional networks for large-scale image recognition](https://arxiv.org/pdf/1409.1556.pdf) (VGG, 2014)
@@ -12,32 +12,32 @@
 * [Identity Mappings in Deep Residual Networks](https://arxiv.org/pdf/1603.05027.pdf) (ResNet-v2, 2016)
 * [Densely Connected Convolutional Networks](https://arxiv.org/pdf/1608.06993.pdf) (DenseNet, 2016)
 * [Wide Residual Networks](https://arxiv.org/pdf/1605.07146.pdf) (Wide ResNet, 2016)
-### Small Models
+**Small Models**
 * [SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and <0.5MB model size](https://arxiv.org/pdf/1602.07360.pdf) (SqueezeNet, 2016)
 * [XNOR-Net: ImageNet Classification Using Binary Convolutional Neural Networks](https://pjreddie.com/media/files/papers/xnor.pdf) (XNOR-Net, 2016)
 * [ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices](https://arxiv.org/pdf/1707.01083.pdf) (ShuffleNet, 2017)
 * [MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications](https://arxiv.org/pdf/1704.04861.pdf) (MobileNet, 2017)
 * [MobileNetV2: Inverted Residuals and Linear Bottlenecks](https://arxiv.org/pdf/1801.04381.pdf) (MobileNet-v2, 2018)
 ## Object Detection
-### Tow Stage Models
+**Tow Stage Models**
 * [Rich feature hierarchies for accurate object detection and semantic segmentation](https://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Girshick_Rich_Feature_Hierarchies_2014_CVPR_paper.pdf) (RCNN, 2014)
 * [Fast R-CNN](http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Girshick_Fast_R-CNN_ICCV_2015_paper.pdf) (Fast RCNN, 2015)
 * [Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks](http://papers.nips.cc/paper/5638-faster-r-cnn-towards-real-time-object-detection-with-region-proposal-networks.pdf) (Faster RCNN, 2015)()
 * [R-FCN: Object Detection via Region-based Fully Convolutional Networks](https://arxiv.org/abs/1605.06409) (R-FCN, 2016)
 * [Feature Pyramid Networks for Object Detection](https://arxiv.org/pdf/1612.03144.pdf) (FPN, 2017)
 * [Mask R-CNN](https://arxiv.org/abs/1703.06870) (Mask RCNN, 2017)
-### One-Stage Models
+**One-Stage Models**
 * [You Only Look Once: Unified, Real_Time Object Detection](https://arxiv.org/abs/1506.02640) (Yolo-v1, 2015)
 * [SSD: Single Shot MultiBox Detector](https://arxiv.org/abs/1512.02325) (SSD, 2015)
 * [Focal Loss for Dense Object Detection](https://arxiv.org/abs/1708.02002) (RetinaNet, 2017)
-### Weak Supervised Object Localization
+**Weak Supervised Object Localization**
 * [Simultaneous Detection and Segmentation](https://arxiv.org/abs/1407.1808) (2014)
 * [Deep Self-Taught Learning for Weakly Supervised Object Localization](https://arxiv.org/abs/1704.05188) (2017)
 * [Learning Detection with Diverse Proposals](https://arxiv.org/abs/1704.05188) (2017)
 * [Two-Phase Learning for Weakly Supervised Object Localization](https://arxiv.org/abs/1708.02108) (2017)
 * [Soft Proposal Networks for Weakly Supervised Object Localization](https://arxiv.org/abs/1709.01829) (2017)
 * [Improving Object Localization with Fitness NMS and Bounded IoU Loss](https://arxiv.org/abs/1711.00164v3) (2018)
-### Other Models
+**Other Models**
 * [Convolutional Feature Masking for Joint Object and Stuff Segmentation](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Dai_Convolutional_Feature_Masking_2015_CVPR_paper.pdf) (2015)
 * [Instance-aware Semantic Segmentation via Multi-task Network Cascades](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Dai_Instance-Aware_Semantic_Segmentation_CVPR_2016_paper.pdf) (2015)
 * [A-Fast-RCNN: Hard Positive Generation via Adversary for Object Detection](https://arxiv.org/abs/1704.03414) (2017)
@@ -68,7 +68,5 @@
 * [	Learning Pixel-level Semantic Affinity with Image-level Supervision for Weakly Supervised Semantic Segmentation](https://arxiv.org/abs/1803.10464v1) (2018)
 * [Learning to Adapt Structured Output Space for Semantic Segmentation](https://arxiv.org/abs/1802.10349v1) (2018)
 * [	Multi-Evidence Filtering and Fusion for Multi-Label Classification, Object Detection and Semantic Segmentation Based on Weakly Supervised Learning](https://arxiv.org/abs/1802.09129v1) (2018)
-* []() ()
-* []() ()
-* []() ()
-* []() ()
+## Object Tracking
+https://github.com/foolwood/benchmark_results
