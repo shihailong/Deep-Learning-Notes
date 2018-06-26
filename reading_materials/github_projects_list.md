@@ -1,14 +1,9 @@
 # 深度学习资料
-## 数学基础
-### 线性代数  
-https://github.com/shihailong/Deep-Learning-Notebook/blob/master/linear_algebra.md  
-
 
 ## 机器学习
 ### 线性回归  
 - TensorFlow代码  
 https://github.com/shihailong/Deep-Learning-Notebook/blob/master/linear_regression.py  
-
 
 ## 深度学习
 ### CNN
@@ -72,11 +67,9 @@ http://blog.csdn.net/c2a2o2/article/details/73338026
 - Cycle-GAN TensorFlow  
 https://github.com/vanhuyz/CycleGAN-TensorFlow  
 
-
 ## 强化学习  
 - Learning Reinforcement Learning (with Code, Exercises and Solutions)  
 http://www.wildml.com/2016/10/learning-reinforcement-learning/  
-
 
 ## 参考资料
 ### 书籍  
