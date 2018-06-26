@@ -1,6 +1,6 @@
 # Deep Learning Paper Reading List
 ## Backbone Models
-**Big Models**  
+#### Big Models
 * [Imagenet classification with deep convolutional neural networks](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf) (AlexNet, 2012)
 * [Network In Network](https://arxiv.org/pdf/1312.4400.pdf) (NIN, 2013)
 * [Very deep convolutional networks for large-scale image recognition](https://arxiv.org/pdf/1409.1556.pdf) (VGG, 2014)
@@ -12,7 +12,7 @@
 * [Identity Mappings in Deep Residual Networks](https://arxiv.org/pdf/1603.05027.pdf) (ResNet-v2, 2016)
 * [Densely Connected Convolutional Networks](https://arxiv.org/pdf/1608.06993.pdf) (DenseNet, 2016)
 * [Wide Residual Networks](https://arxiv.org/pdf/1605.07146.pdf) (Wide ResNet, 2016)  
-**Small Models**  
+#### Small Models
 * [SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and <0.5MB model size](https://arxiv.org/pdf/1602.07360.pdf) (SqueezeNet, 2016)
 * [XNOR-Net: ImageNet Classification Using Binary Convolutional Neural Networks](https://pjreddie.com/media/files/papers/xnor.pdf) (XNOR-Net, 2016)
 * [ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices](https://arxiv.org/pdf/1707.01083.pdf) (ShuffleNet, 2017)
