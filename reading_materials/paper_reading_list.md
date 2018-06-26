@@ -11,7 +11,8 @@
 * [Deep residual learning for image recognition](https://arxiv.org/pdf/1512.03385.pdf) (ResNet, 2015)
 * [Identity Mappings in Deep Residual Networks](https://arxiv.org/pdf/1603.05027.pdf) (ResNet-v2, 2016)
 * [Densely Connected Convolutional Networks](https://arxiv.org/pdf/1608.06993.pdf) (DenseNet, 2016)
-* [Wide Residual Networks](https://arxiv.org/pdf/1605.07146.pdf) (Wide ResNet, 2016)  
+* [Wide Residual Networks](https://arxiv.org/pdf/1605.07146.pdf) (Wide ResNet, 2016)
+* [Squeeze-and-Excitation Networks](https://arxiv.org/pdf/1709.01507.pdf) (2018)
 #### Small Models
 * [SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and <0.5MB model size](https://arxiv.org/pdf/1602.07360.pdf) (SqueezeNet, 2016)
 * [XNOR-Net: ImageNet Classification Using Binary Convolutional Neural Networks](https://pjreddie.com/media/files/papers/xnor.pdf) (XNOR-Net, 2016)
